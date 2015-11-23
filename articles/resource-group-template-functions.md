@@ -83,7 +83,9 @@ The information about the deployment is returned as an object with the following
     {
       "name": "",
       "properties": {
-        "template": {},
+        "templateLink": {
+          "uri": ""
+        },
         "parameters": {},
         "mode": "",
         "provisioningState": ""
